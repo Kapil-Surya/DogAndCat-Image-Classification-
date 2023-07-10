@@ -3,4 +3,4 @@ This repository is meant to monitor my progress in Binary classification of imag
 
 The first attempt consists of a very small data set and a model which isnt much complex, but works with a decent accuracy.
 
-Download the model and change the path to skip trainin(Drive:https://drive.google.com/drive/folders/13yyEhXnnyS81JZPdbJ4KZ5AlhuJ-dfRt?usp=drive_link)
+Download the model and change the path to skip trainin(Drive:https://drive.google.com/drive/folders/13yyEhXnnyS81JZPdbJ4KZ5AlhuJ-dfRt?usp=drive_link) although training takes only couple of minutes
